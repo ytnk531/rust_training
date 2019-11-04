@@ -1,3 +1,5 @@
+//https://www.hackerrank.com/challenges/compare-the-triplets/problem
+
 use std::cmp::Ordering;
 use std::io;
 
